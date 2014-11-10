@@ -3,6 +3,6 @@ class Try {
 	private String msg;
 
 	public String toString() {
-		return "Try"
+		return "Try" // still fail
 	}
 }
